@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Aryan%20Awasthi&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Data%20Analytics%20%C2%B7%20Machine%20Learning%20%C2%B7%20Statistical%20Modeling&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Aryan Awasthi" />
-
-<a href="https://github.com/Techy-A">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=2C9FBF&center=true&vCenter=true&width=680&lines=ECE+undergrad+%40+Thapar+Institute+(2027);AI+Research+Intern+%40+Appy+Pie+(Pixazo);Ranked+15+AI+models+with+Elo+and+Bradley-Terry;2nd+on+a+Kaggle+public+leaderboard;From+SQL+dashboards+to+PyTorch+models" alt="Typing intro" />
-</a>
+<img src="https://raw.githubusercontent.com/Techy-A/Techy-A/main/assets/header.svg" width="100%" alt="Aryan Awasthi: 2nd on a Kaggle public leaderboard, 15 AI models ranked, Pearson 0.909 on speech, 92% RAG faithfulness" />
 
 <p>
+  <a href="https://github.com/Techy-A/Techy-A/blob/main/AryanAwasthi.pdf"><img src="https://img.shields.io/badge/Resume-PDF-f2a33b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
   <a href="https://www.linkedin.com/in/aryan--awasthi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aryanawasthi017@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Techy-A/shl-grammar-scoring"><img src="https://img.shields.io/badge/Kaggle-2nd%20public%20LB-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle result" /></a>
@@ -24,7 +21,7 @@
 
 ```python
 class AryanAwasthi:
-    studying  = "B.E. Electronics and Computer Engineering, Thapar Institute (TIET), 2023 to 2027"
+    studying  = "ENC @ Thapar Institute of Engineering and Technology, 2023 to 2027"
     based_in  = "New Delhi, India"
     last_role = "AI Research Intern, Data & Model Evaluation @ Appy Pie (Pixazo)"
     works_on  = ["statistical model evaluation", "cost and product analytics",
@@ -40,7 +37,7 @@ class AryanAwasthi:
 
 ```mermaid
 timeline
-    2023 : Started B.E. ECE at Thapar Institute
+    2023 : Started ENC at Thapar Institute of Engineering and Technology
          : Team Fateh, low voltage systems
     2024 : Stock direction prediction with ML and BiLSTM
     2025 : CollegeBot, an end-to-end RAG chatbot
@@ -144,7 +141,7 @@ timeline
 
 | | |
 |:--|:--|
-| **Thapar Institute of Engineering and Technology**, Patiala | B.E. Electronics and Computer Engineering, 2023 to 2027 (expected) |
+| **Thapar Institute of Engineering and Technology**, Patiala | B.E. ENC (Electronics and Computer Engineering), 2023 to 2027 (expected) |
 | **Kaggle: SHL Hiring Assessment 2026** | 2nd on the public leaderboard (RMSE 0.3207) |
 | **JEE Mains 2023** | 92.2 percentile |
 | **Team Fateh**, low voltage systems | MPU-6050 gyroscope sensor system for driver indications (direction, speed, temperature); PCB design and system-level debugging |
@@ -152,12 +149,11 @@ timeline
 ## GitHub in numbers
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Techy-A&show_icons=true&hide_border=true&theme=transparent&title_color=2c9fbf&icon_color=2c9fbf&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techy-A&layout=compact&hide_border=true&theme=transparent&title_color=2c9fbf" height="165" alt="Top languages" />
-<br />
-<img src="https://streak-stats.demolab.com?user=Techy-A&hide_border=true&theme=transparent&ring=2c9fbf&fire=2c9fbf&currStreakLabel=2c9fbf" alt="Contribution streak" />
-<br />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Techy-A&bg_color=00000000&color=2c9fbf&line=2c9fbf&point=2c5364&area=true&hide_border=true" width="100%" alt="Contribution graph" />
+
+![Followers](https://img.shields.io/github/followers/Techy-A?style=for-the-badge&color=2c5364&label=followers)
+![Stars](https://img.shields.io/github/stars/Techy-A?style=for-the-badge&color=2c9fbf&label=stars%20earned)
+![Repos](https://img.shields.io/badge/public%20repos-11-f2a33b?style=for-the-badge)
+
 </div>
 
 <div align="center">
@@ -166,4 +162,4 @@ timeline
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Techy-A/Techy-A/main/assets/footer.svg" width="100%" alt="" />
