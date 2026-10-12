@@ -104,10 +104,11 @@ timeline
 | Project | What it does | Numbers |
 |:--|:--|:--|
 | [**CollegeBot**](https://github.com/Techy-A/collegebot-rag) | End-to-end RAG chatbot: LangChain, ChromaDB and sentence-transformers, with Phi-3-mini, Mistral-7B and GPT-3.5-turbo, QLoRA fine-tuning and a Streamlit app | **92%** faithfulness, **87%** answer relevance, **91%** context precision |
+| [**IMAGE-LLP-VISION**](https://github.com/Techy-A/IMAGE-LLP-VISION) | Pairwise evaluation arena for text-to-image models: images compete in round-robin tournaments within each prompt group, judged by 5 scorers (PickScore, HPSv2, ImageReward, VQAScore, VLM-as-a-judge) and ranked with Elo and Bradley-Terry MLE. Checkpointing, heatmaps and CSV/JSON export | 5 scorers, runs fully local, zero API cost |
 | [**Self-Pruning Neural Network**](https://github.com/Techy-A/Self-Pruning-Neural-Network---Tredence-Analytics) | PyTorch network on CIFAR-10 where every weight has a learnable gate, so the model sparsifies itself while it trains. Tredence AI Engineering case study | Sparse model, no separate pruning step |
 | [**Stock Market Direction**](https://github.com/Techy-A/Stock-Market-Prediction-Analysis) | 5 years of market data, 50+ features (RSI, MACD, Bollinger Bands, lags), Random Forest vs XGBoost vs BiLSTM with time-aware validation, plus a backtester | Sharpe ratio, returns and drawdown |
 | [**Plato Sniper**](https://github.com/Amritesh-Bhardwaj/Poker) | Poker decision engine: Monte Carlo hand equity under incomplete information, compared against pot odds for GTO-inspired actions | 1,500+ simulated trials per decision |
-| [**LORA_for_GPU**](https://github.com/Techy-A/LORA_for_GPU) | Parameter-efficient LLM fine-tuning with LoRA on a single GPU | |
+| [**LORA_for_GPU**](https://github.com/Techy-A/LORA_for_GPU) | QLoRA fine-tuning of Voxtral-Mini-3B, an audio LLM, to score spoken grammar: 4-bit NF4 model, LoRA adapters (r = 16) on the attention layers and a linear score head, speaker-grouped 5-fold CV, one-command PowerShell pipeline | A 3B audio LLM fine-tuned on an 8 GB GPU |
 | [**OptiVector**](https://github.com/Techy-A/OptiVector) | Turns PNG and JPG raster images into clean, scalable vector paths | |
 
 <details>
@@ -119,7 +120,6 @@ timeline
 | [MNIST-784 classification](https://github.com/Techy-A/Classification-on-MNIST-784-) | Classical ML vs CNNs on handwritten digits, up to 99% accuracy |
 | [California housing](https://github.com/Techy-A/California-Housing-ml) | Price regression with preprocessing, visualisation and model comparison |
 | [Iris classification](https://github.com/Techy-A/Classification-of-iris-flower) | Supervised classification of the three iris species |
-| [IMAGE-LLP-VISION](https://github.com/Techy-A/IMAGE-LLP-VISION) | Computer vision experiments |
 
 </details>
 
