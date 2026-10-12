@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techy-A/Techy-A/main/assets/header-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techy-A/Techy-A/main/assets/header-light.svg" />
-  <img src="https://raw.githubusercontent.com/Techy-A/Techy-A/main/assets/header-light.svg" width="100%" alt="Aryan Awasthi: 2nd on a Kaggle public leaderboard, 15 AI models ranked, Pearson 0.909 on speech, 92% RAG faithfulness" />
+  <img src="https://raw.githubusercontent.com/Techy-A/Techy-A/main/assets/header-light.svg" width="100%" alt="Aryan Awasthi: 2nd on a Kaggle public leaderboard, 15 AI models ranked, Pearson 0.909 on speech, 88.6% retrieval hit rate" />
 </picture>
 
 <p>
@@ -103,7 +103,7 @@ timeline
 
 | Project | What it does | Numbers |
 |:--|:--|:--|
-| [**CollegeBot**](https://github.com/Techy-A/collegebot-rag) | End-to-end RAG chatbot: LangChain, ChromaDB and sentence-transformers, with Phi-3-mini, Mistral-7B and GPT-3.5-turbo, QLoRA fine-tuning and a Streamlit app | **92%** faithfulness, **87%** answer relevance, **91%** context precision |
+| [**CollegeBot**](https://github.com/Techy-A/collegebot-rag) | Grounded RAG assistant for college questions: hybrid FAISS + BM25 retrieval with reciprocal rank fusion, Groq Llama 3.1, cited answers and explicit refusals in a Streamlit app, a two-layer evaluation harness and a QLoRA fine-tuning pipeline for Phi-3-mini and Mistral-7B | **88.6%** of facts reach the context (up from 77.1%), 2,185 chunks from 24 documents, 64 offline tests |
 | [**IMAGE-LLP-VISION**](https://github.com/Techy-A/IMAGE-LLP-VISION) | Pairwise evaluation arena for text-to-image models: images compete in round-robin tournaments within each prompt group, judged by 5 scorers (PickScore, HPSv2, ImageReward, VQAScore, VLM-as-a-judge) and ranked with Elo and Bradley-Terry MLE. Checkpointing, heatmaps and CSV/JSON export | 5 scorers, runs fully local, zero API cost |
 | [**Self-Pruning Neural Network**](https://github.com/Techy-A/Self-Pruning-Neural-Network---Tredence-Analytics) | PyTorch network on CIFAR-10 where every weight has a learnable gate, so the model sparsifies itself while it trains. Tredence AI Engineering case study | Sparse model, no separate pruning step |
 | [**Stock Market Direction**](https://github.com/Techy-A/Stock-Market-Prediction-Analysis) | 5 years of market data, 50+ features (RSI, MACD, Bollinger Bands, lags), Random Forest vs XGBoost vs BiLSTM with time-aware validation, plus a backtester | Sharpe ratio, returns and drawdown |

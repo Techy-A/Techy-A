@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Aryan Awasthi: 2nd on a Kaggle public leaderboard, 15 AI models ranked, Pearson 0.909 on speech, 92% RAG faithfulness">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Aryan Awasthi: 2nd on a Kaggle public leaderboard, 15 AI models ranked, Pearson 0.909 on speech, 88.6% RAG retrieval hit rate">
   <defs>
     <radialGradient id="sky" cx=".85" cy=".15" r="1.1">
       <stop offset="0" stop-color="#0b1a33"/><stop offset=".45" stop-color="#05080f"/><stop offset="1" stop-color="#000000"/>
@@ -80,8 +80,8 @@
   <text x="680" y="353" class="sub">Whisper + WavLM + Voxtral</text>
 </g><g>
   <rect x="892" y="256" width="216" height="112" rx="16" fill="#6db8ec" fill-opacity=".07" stroke="#6db8ec" stroke-opacity=".35"/>
-  <text x="912" y="310" class="big">92%</text>
-  <text x="912" y="335" class="lab">RAG faithfulness</text>
-  <text x="912" y="353" class="sub">CollegeBot, QLoRA tuned</text>
+  <text x="912" y="310" class="big">88.6%</text>
+  <text x="912" y="335" class="lab">RAG retrieval hit rate</text>
+  <text x="912" y="353" class="sub">CollegeBot, hybrid search</text>
 </g>
 </svg>
