@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Techy-A/Techy-A/main/assets/header.svg" width="100%" alt="Aryan Awasthi: 2nd on a Kaggle public leaderboard, 15 AI models ranked, Pearson 0.909 on speech, 92% RAG faithfulness" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techy-A/Techy-A/main/assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techy-A/Techy-A/main/assets/header-light.svg" />
+  <img src="https://raw.githubusercontent.com/Techy-A/Techy-A/main/assets/header-light.svg" width="100%" alt="Aryan Awasthi: 2nd on a Kaggle public leaderboard, 15 AI models ranked, Pearson 0.909 on speech, 92% RAG faithfulness" />
+</picture>
 
 <p>
   <a href="https://github.com/Techy-A/Techy-A/blob/main/AryanAwasthi.pdf"><img src="https://img.shields.io/badge/Resume-PDF-f2a33b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
