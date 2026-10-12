@@ -117,7 +117,7 @@ timeline
 
 | Project | What it does |
 |:--|:--|
-| [MNIST-784 classification](https://github.com/Techy-A/Classification-on-MNIST-784-) | Classical ML vs CNNs on handwritten digits, up to 99% accuracy |
+| [MNIST-784 classification](https://github.com/Techy-A/Classification-on-MNIST-784-) | SGD, SVM, Random Forest and k-NN on handwritten digits: ~90% multiclass accuracy, 0.998 ROC-AUC on the binary task |
 | [California housing](https://github.com/Techy-A/California-Housing-ml) | Price regression with preprocessing, visualisation and model comparison |
 | [Iris classification](https://github.com/Techy-A/Classification-of-iris-flower) | Supervised classification of the three iris species |
 
