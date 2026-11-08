@@ -3,14 +3,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techy-A/Techy-A/main/assets/header-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techy-A/Techy-A/main/assets/header-light.svg" />
-  <img src="https://raw.githubusercontent.com/Techy-A/Techy-A/main/assets/header-light.svg" width="100%" alt="Aryan Awasthi: 2nd on a Kaggle public leaderboard, 15 AI models ranked, Pearson 0.909 on speech, 88.6% retrieval hit rate" />
+  <img src="https://raw.githubusercontent.com/Techy-A/Techy-A/main/assets/header-light.svg" width="100%" alt="Aryan Awasthi: SHL spoken grammar scoring with out-of-fold Pearson 0.915, 15 AI models ranked, a gate that catches 37 of 37 noise clips, 88.6% RAG retrieval hit rate" />
 </picture>
 
 <p>
   <a href="https://github.com/Techy-A/Techy-A/blob/main/AryanAwasthi.pdf"><img src="https://img.shields.io/badge/Resume-PDF-f2a33b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
   <a href="https://www.linkedin.com/in/aryan--awasthi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aryanawasthi017@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Techy-A/shl-grammar-scoring"><img src="https://img.shields.io/badge/Kaggle-2nd%20public%20LB-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle result" /></a>
+  <a href="https://github.com/Techy-A/shl-grammar-scoring"><img src="https://img.shields.io/badge/Kaggle-SHL%20Hiring%20Assessment%202026-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle: SHL Hiring Assessment 2026" /></a>
 </p>
 
 <p>
@@ -31,7 +31,7 @@ class AryanAwasthi:
     works_on  = ["statistical model evaluation", "cost and product analytics",
                  "speech and audio ML", "RAG and LLM fine-tuning"]
     pipeline  = ["SQL", "dashboards", "statistics", "Python", "PyTorch", "production"]
-    proudest  = "2nd on the public leaderboard, SHL Hiring Assessment 2026 (Kaggle)"
+    proudest  = "spoken grammar scoring for the SHL Hiring Assessment 2026 (Kaggle)"
 
     def say_hi(self):
         return "Open to ML, data and analytics internships and new-grad roles. Let's talk."
@@ -47,7 +47,7 @@ timeline
     2025 : CollegeBot, an end-to-end RAG chatbot
     2026 : AI Research Intern at Appy Pie (Pixazo)
          : Self-pruning neural network (Tredence case study)
-         : 2nd on the SHL Kaggle public leaderboard
+         : SHL Hiring Assessment 2026 on Kaggle (spoken grammar scoring)
     2027 : Graduating
 ```
 
@@ -84,16 +84,16 @@ timeline
 
 - Verbatim-prompted Whisper, WavLM, DeBERTa and the Voxtral audio LLM, blended
 - Speaker-grouped CV, training on test-length crops, a measured test-set bias correction
-- Every leaderboard submission and probe documented, including the ones that failed
+- Every experiment logged, including the ones that failed
 
 </td>
 <td width="40%" align="center">
 
 | Metric | Result |
 |:--|:--|
-| Public leaderboard | **0.3207** (2nd) |
-| Out-of-fold RMSE | **0.516** |
-| Out-of-fold Pearson r | **0.909** |
+| Out-of-fold RMSE | **0.500** |
+| Out-of-fold Pearson r | **0.915** |
+| Noise clips caught by the gate | **37 of 37** |
 
 </td>
 </tr>
@@ -146,7 +146,7 @@ timeline
 | | |
 |:--|:--|
 | **Thapar Institute of Engineering and Technology**, Patiala | B.E. ENC (Electronics and Computer Engineering), 2023 to 2027 (expected) |
-| **Kaggle: SHL Hiring Assessment 2026** | 2nd on the public leaderboard (RMSE 0.3207) |
+| **Kaggle: SHL Hiring Assessment 2026** | Spoken grammar scoring, out-of-fold RMSE 0.500 and Pearson r 0.915 |
 | **JEE Mains 2023** | 92.2 percentile |
 | **Team Fateh**, low voltage systems | MPU-6050 gyroscope sensor system for driver indications (direction, speed, temperature); PCB design and system-level debugging |
 
@@ -156,7 +156,7 @@ timeline
 
 ![Followers](https://img.shields.io/github/followers/Techy-A?style=for-the-badge&color=2c5364&label=followers)
 ![Stars](https://img.shields.io/github/stars/Techy-A?style=for-the-badge&color=2c9fbf&label=stars%20earned)
-![Repos](https://img.shields.io/badge/public%20repos-11-f2a33b?style=for-the-badge)
+![Repos](https://img.shields.io/badge/public%20repos-14-f2a33b?style=for-the-badge)
 
 </div>
 
